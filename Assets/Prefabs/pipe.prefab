@@ -144,6 +144,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 5
+  deadzone: -11
 --- !u!1 &7382419988766734951
 GameObject:
   m_ObjectHideFlags: 0
@@ -288,6 +289,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 5
+  deadzone: -11
 --- !u!1 &8791452602062034431
 GameObject:
   m_ObjectHideFlags: 0
